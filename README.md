@@ -13,6 +13,6 @@ Subtype-specific metadatata files used to annotate respective subtype-specific p
       Subtype_C_clusters_metadata-22052023.txt
       Subtype_D_clusters_metadata-22052023.txt
       
-      0 = DRM not present
-      1 = DRM present for defined HIVDRMs.
+      no = DRM not present
+      yes = DRM present for defined HIVDRMs.
 
